@@ -1,4 +1,4 @@
-<h1>Madestays Onboarding Dashboard</h1>
+<h1>Onboarding Dashboard</h1>
 
 <p>A responsive frontend dashboard built with Next.js, React, and TypeScript, designed for property owners to track their luxury short-term rental properties through the Madestays onboarding checklist.</p>
 
